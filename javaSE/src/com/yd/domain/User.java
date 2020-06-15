@@ -5,4 +5,7 @@ package com.yd.domain;
  * @date 2020/6/15 20:08
  **/
 public class User {
+    
+    private int age ;
+    private String username ;
 }
